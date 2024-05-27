@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r}from"./chunks/framework.R_EEQle6.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"learn/first-manager.md","filePath":"learn/first-manager.md"}'),t={name:"learn/first-manager.md"};function n(s,o,c,i,f,m){return r(),a("div")}const d=e(t,[["render",n]]);export{_ as __pageData,d as default};
